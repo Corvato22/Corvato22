@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Corvato22
+- 👀 I’m interested in learn a lot about code
+- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 📫 How to reach me Corvato22@gmail.com
