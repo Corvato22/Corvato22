@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello there, I'm <a style="color: #b602ff" href="https://www.linkedin.com/in/carlos~uribe/">Carlos</a> <img src="https://emoji.gg/assets/emoji/5211-fire-emojis.gif" width="25px"> </h1>
+   <h1>Hello there, I'm <a style="color: #b602ff" href="https://www.linkedin.com/in/carlos~uribe/" target="_blank">Carlos</a> <img src="https://emoji.gg/assets/emoji/5211-fire-emojis.gif" width="25px"> </h1>
 </div>
 
 <div align="center">
