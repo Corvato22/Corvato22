@@ -6,20 +6,6 @@
 <h3>I'm a Junior Front-end Developer from Medellín , COL <img src="https://www.fg-a.com/flags/animated-colombia-flag-2.gif" width="20"></h3>
 </div>
 
-<br />
-
-- 👀 I’m interested in learn a lot about code.
-
-- 🤔 Currently learning JavaScript, ReactJS, HTML and CSS.
-
-- 🎮 Gaming FanBoy, die for video games.
-
-- 🎸 I play guitar, but I'm not that good.
-
-- 📫 How to reach me? Here you are! Corvato22@gmail.com
-
-<br />
-
 ### - Languages and Tools
 
 <br />
@@ -33,12 +19,6 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
-<br />
-
-### - My personality
-
-<br />
 
 <p align="center">
    <img height="170px" width="250" src="https://c.tenor.com/FedkM8mspFgAAAAC/big-thonk-hmmm.gif" />
